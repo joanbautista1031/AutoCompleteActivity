@@ -12,4 +12,6 @@ In summary, to use **AutoCompleteActivity** you need to:
 4. Launch intent using *startActivityResult*
 5. Handle selected Place from the query results in *onActivityResult* of the calling activity
 
+Note: To be able to run the project successfully, you need to add **apicredentials.properties** in the project. The file should include **GOOGLE_API_KEY="<API_KEY>"**.
+
 To know more about Places SDK visit https://developers.google.com/places/web-service/intro
