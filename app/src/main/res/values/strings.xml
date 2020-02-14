@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SearchPlace</string>
+
+    <string name="search_place">Search a Place</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="id">ID:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="you_selected">You selected:</string>
+    <string name="you_did_not_select">You did not select any place</string>
+</resources>
